@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>$(StandardTestWebsiteTfms)</TargetFrameworks>
+    <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
     <IsTestAssetProject>true</IsTestAssetProject>
   </PropertyGroup>
 
